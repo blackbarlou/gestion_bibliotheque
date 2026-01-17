@@ -3,9 +3,6 @@
  *
  * Classe de support aux menus, offre des méthodes pour faciliter
  * l'affichage des menus, les saisies et la validation de ces dernières
- *
- * @author Pierre-Julien Houde
- * @author Hassan Hader
  * @author Abiola Fashola Nurudeen
  * 
  */

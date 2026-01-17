@@ -2,9 +2,6 @@
  * Inf1002 Hiver 2024, groupe 2, équipe 13. Devoir 5
  *
  * Enum pour lister les domaines possibles des objets Manuel
- *
- * @author Pierre-Julien Houde
- * @author Hassan Hader
  * @author Abiola Fashola Nurudeen
  * 
  */

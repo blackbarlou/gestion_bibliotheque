@@ -2,9 +2,6 @@
  * Inf1002 Hiver 2024, groupe 2, équipe 13. Devoir 5
  *
  * Classe représentant un document de type Revue.
- *
- * @author Pierre-Julien Houde
- * @author Hassan Hader
  * @author Abiola Fashola Nurudeen
  * 
  */

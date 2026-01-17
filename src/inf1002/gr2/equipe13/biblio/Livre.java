@@ -3,9 +3,6 @@
  *
  * Classe abstraite représentant les propriétés communes à tous les
  * documents de la bibliothèque.
- *
- * @author Pierre-Julien Houde
- * @author Hassan Hader
  * @author Abiola Fashola Nurudeen
  * 
  */
